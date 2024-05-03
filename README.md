@@ -1,1 +1,1 @@
-# the-web-development-project
+# the-GSSOC-2024-project
