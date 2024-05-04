@@ -4,7 +4,6 @@ in which i try to learn everything there is to learn but possibly almost definit
 
 ### the HTML and CSS project
 * HTML & CSS for beginners [youtube]
-* learn HTML and CSS [scrimba]
 * learn CSS grid [scrimba]
 * learn flexbox [scrimba]
 * learn CSS variables [scrimba]
