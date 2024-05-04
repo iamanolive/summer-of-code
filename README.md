@@ -19,7 +19,7 @@ in which i try to learn everything there is to learn but possibly almost definit
 * learn accessible web design [scrimba]
 * learn UI design fundamentals [scrimba]
 
-## the python project
+### the python project
 * learn python [scrimba]
 
 ### the react project
