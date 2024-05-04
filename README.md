@@ -1,6 +1,9 @@
-# the-GSSOC-2024-project
+# the girlscript summer of code project
+
+in which i try to learn everything there is to learn but possibly almost definitely fail (because there's apparently an absolutely infinite amount of things that need learning. and i'm a puny human incapable of giving up sleep forever)
 
 ### the HTML and CSS project
+* HTML & CSS for beginners [youtube]
 * learn HTML and CSS [scrimba]
 * learn CSS grid [scrimba]
 * learn flexbox [scrimba]
