@@ -3,20 +3,15 @@
 in which i try to learn everything there is to learn but possibly almost definitely fail (because there's apparently an absolutely infinite amount of things that need learning. and i'm a puny human incapable of giving up sleep forever)
 
 ### the HTML and CSS project
-* HTML & CSS for beginners [youtube]
 * learn CSS grid [scrimba]
 * learn flexbox [scrimba]
 * learn CSS variables [scrimba]
-* CSS challenges [scrimba]
-* HTML canvas: a beginner's guide [youtube]
+* bootstrap CSS farmework [freecodecamp]
 
 ### the javascript project
-* learn javascript [scrimba]
+* javascript the full course [davegray]
 * introduction to ES6+ [scrimba]
 * regex tutorial [scrimba]
-* visual web development course 2021 [youtube]
-* learn accessible web design [scrimba]
-* learn UI design fundamentals [scrimba]
 
 ### the python project
 * learn python [scrimba]
@@ -25,9 +20,6 @@ in which i try to learn everything there is to learn but possibly almost definit
 * learn react [scrimba]
 * learn react router 6 [scrimba]
 * learn class components in react [scrimba]
-
-### the bootstrap project
-* learn bootstrap [scrimba]
 
 ### the firebase project
 * learn firebase [scrimba]
