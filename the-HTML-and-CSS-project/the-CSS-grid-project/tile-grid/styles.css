@@ -1,0 +1,34 @@
+html, body {
+    background-color: #ffeead;
+    color: #ffeead;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-auto-rows: 100px;
+    grid-gap: 5px;
+}
+
+.container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
+
+.container > .blue {
+    background-color: #96ceb4;
+}
+
+.container > .red {
+    background-color: #ff6f69;
+}
+
+.container > .sky {
+    background-color: #88d8b0;
+}
+
+.container > .yellow {
+    background-color: #ffcc5c;
+}

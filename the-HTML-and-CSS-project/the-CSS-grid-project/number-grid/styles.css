@@ -1,0 +1,30 @@
+html, body {
+    background-color: #ffeead;
+    color: #ffeead;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 5px;
+}
+
+.container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
+
+.container > .one {
+    background-color: #96ceb4;
+}
+
+.container > .two {
+    background-color: #ff6f69;
+}
+
+.container > .three {
+    background-color: #ffcc5c;
+}
