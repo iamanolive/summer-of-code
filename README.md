@@ -30,12 +30,6 @@ in which i try to learn everything there is to learn but possibly almost definit
 
 ### the mongoDB project
 
-### the flutter project
-
-### the solidity project
-
 ### the expressJS project
 
 ### the nextJS
-
-### the dart project
