@@ -2,5 +2,6 @@
 
 in which i try to learn everything there is to learn but possibly almost definitely fail (because there's apparently an absolutely infinite amount of things that need learning. and i'm a puny human incapable of giving up sleep forever)
 
-## the flask project
-* building an e-commerce site [jimshapedcoding]
+## the javascript project
+
+* 
