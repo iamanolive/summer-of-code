@@ -1,10 +1,10 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 
-web = "https://leetcode.com/problemset/?page=18"
+web = "https://leetcode.com/problemset/?page=42"
 path = "C:\Program Files (x86)\chromedriver.exe"
 
-file = open("leetcode-scraper.txt", "a")
+file = open("2000-2099.txt", "a")
 
 service = Service(executable_path = path)
 driver = webdriver.Chrome(service = service)
