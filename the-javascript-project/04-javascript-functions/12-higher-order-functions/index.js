@@ -19,3 +19,12 @@ function myFunc3() {
 };
 const answer3 = myFunc3();
 console.log(answer3());
+
+
+function myFunc4() {
+    return function() {
+        return "hello, world!";
+    };
+};
+const answer4 = myFunc4();
+console.log(answer4());
